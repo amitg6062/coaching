@@ -35,14 +35,14 @@
                     <div class="col-lg-5">
                         <div class="contact-info-wrap">
                             <h2 class="title">Keep In Touch With Us</h2>
-                            <p>Neque convallis cras semper auctor. Libero id faucibus getnvallis.id faucibus nisl tincidunt egetnvallis.</p>
+                            <p>Reach Us for Support and Information</p>
                             <ul class="list-wrap">
                                 <li>
                                     <div class="icon">
                                         <i class="flaticon-pin-1"></i>
                                     </div>
                                     <div class="content">
-                                        <p>68 Street Holakt Street world <br> 10002 New York</p>
+                                        <p>Delhi 110053</p>
                                     </div>
                                 </li>
                                 <li>
@@ -50,8 +50,7 @@
                                         <i class="flaticon-phone-call"></i>
                                     </div>
                                     <div class="content">
-                                        <a href="tel:0123456789">+123 555 69090</a>
-                                        <a href="tel:0123456789">+123 555 69090</a>
+                                        <a href="tel:9999999999">+91 9999999999</a>                                    
                                     </div>
                                 </li>
                                 <li>
@@ -59,8 +58,7 @@
                                         <i class="flaticon-email"></i>
                                     </div>
                                     <div class="content">
-                                        <a href="mailto:info@gmail.com">info@gmail.com</a>
-                                        <a href="mailto:info@gmail.com">info@gmail.com</a>
+                                        <a href="mailto:byteskills.hr@gmail.com">byteskills.hr@gmail.com</a>
                                     </div>
                                 </li>
                             </ul>

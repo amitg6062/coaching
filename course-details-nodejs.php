@@ -14,9 +14,9 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="courses__breadcrumb-content">
-                            <a href="#" class="category">Golang</a>
-                            <h3 class="title">Go (Golang) Programming Masterclass</h3>
-                            <p>Become a Go Developer and Build Scalable, High-Performance Applications</p>
+                            <a href="#" class="category">Nodejs</a>
+                            <h3 class="title">Node.js Beginner Programming Masterclass</h3>
+                            <p>Become a Node.js Developer and Build Scalable, High-Performance Applications</p>
                             <!-- <ul class="courses__item-meta list-wrap">
                                 <li>
                                     <div class="author">
@@ -61,29 +61,27 @@
                             <div class="tab-content" id="myTabContent">
                                 <div class="tab-pane fade show active" id="info" role="tabpanel" aria-labelledby="info-tab">
                                     <div class="courses__details-content">
-                                        <p>Welcome to the Go (Golang) Programming Masterclass, your gateway to mastering the Go programming language and becoming a proficient Go developer. Whether you're just starting your coding journey or you're an experienced programmer looking to expand your skillset, this comprehensive course will empower you with the knowledge and hands-on experience needed to excel in Go development.</p>                                        
+                                        <p>Welcome to the Node.js Programming Masterclass, your gateway to mastering the Go programming language and becoming a proficient Node.js developer. Whether you're just starting your coding journey or you're an experienced programmer looking to expand your skillset, this comprehensive course will empower you with the knowledge and hands-on experience needed to excel in nodejs development.</p>                                        
                                         <div class="courses__details-inner">
                                             <h3 class="title">What Will You Learn?</h3>
-                                            <p>In this comprehensive Go (Golang) programming course, you will learn everything you need to become a proficient Go developer. Whether you're a beginner or an experienced programmer looking to add Go to your skillset, this course will provide you with the knowledge and hands-on experience to excel. You will:</p>
+                                            <p>This beginner-level Node.js course is designed to introduce participants to the fundamental concepts and practical skills needed to work with Node.js, a popular JavaScript runtime. Whether you are a web developer, aspiring full-stack developer, or just starting with JavaScript, this course will provide a solid foundation for leveraging Node.js in your projects.</p>
                                             <div class="event-details-list">
                                                 <!-- <ul class="list-wrap"> -->
                                                 <ul class="">
-                                                    <li><i class="fas fa-check-circle"></i><b>Master the Fundamentals:</b> Understand the core concepts of the Go programming language, including data types, variables, and control structures.</li>
-                                                    <li><i class="fas fa-check-circle"></i><b>Effective Concurrency:</b> Harness the power of Go's goroutines and channels to create highly concurrent and efficient applications.</li>
-                                                    <li><i class="fas fa-check-circle"></i><b>Web Development:</b> Build web applications using Go, including RESTful APIs and web servers.</li>
-                                                    <li><i class="fas fa-check-circle"></i><b>Database Connectivity:</b> Learn how to connect Go applications to databases and perform CRUD operations.</li>
-                                                    <li><i class="fas fa-check-circle"></i><b>Testing and Debugging:</b> Explore best practices for testing your Go code and debugging common issues.</li>
-                                                    <li><i class="fas fa-check-circle"></i><b>Error Handling:</b> Implement robust error handling techniques to create stable and reliable software.</li>
-                                                    <li><i class="fas fa-check-circle"></i><b>Package Management:</b> Use Go modules to manage dependencies and create reusable packages.</li>
-                                                    <li><i class="fas fa-check-circle"></i><b>Performance Optimization:</b> Optimize your Go applications for speed and resource efficiency.</li>
-                                                    <li><i class="fas fa-check-circle"></i><b>Real-World Projects:</b> Apply your skills by working on practical, hands-on projects and exercises throughout the course.</li>
-                                                    <li><i class="fas fa-check-circle"></i><b>Best Practices:</b> Follow industry best practices for clean code, project structure, and documentation.</li>                                                    
+                                                    <li><i class="fas fa-check-circle"></i><b>Introduction to Node.js:</b> Understanding the role of Node.js in modern web development.</li>
+                                                    <li><i class="fas fa-check-circle"></i><b>JavaScript Fundamentals: </b> Reviewing key JavaScript concepts essential for Node.js development. </li>
+                                                    <li><i class="fas fa-check-circle"></i><b>Node.js Basics: </b> Creating your first Node.js application.</li>
+                                                    <li><i class="fas fa-check-circle"></i><b>NPM (Node Package Manager): </b> Managing dependencies using NPM.</li>
+                                                    <li><i class="fas fa-check-circle"></i><b>Building a Web Server with Express: </b> Introduction to Express.js, a popular Node.js web framework.</li>
+                                                    <li><i class="fas fa-check-circle"></i><b>Working with Data: </b> Connecting to databases using Node.js.</li>                                                    
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="courses__details-inner">
                                             <h3 class="title">Prerequisites</h3>
-                                            <p>No prior knowledge of Go is required. Basic programming knowledge and a desire to learn are all you need to get started.</p>
+                                            <p>Basic knowledge of HTML and CSS.</p>
+                                            <p>Familiarity with JavaScript fundamentals.</p>
+                                            <p>Comfortable working with a text editor.</p>
                                             <!-- <div class="event-details-list">
                                                 <ul class="list-wrap">
                                                     <li><i class="fas fa-check-circle"></i>Become a UX designer.</li>
@@ -102,7 +100,7 @@
                                                 <h2 class="accordion-header" id="headingOne">
                                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                         aria-expanded="true" aria-controls="collapseOne">
-                                                        Module 1: Getting Started with Go
+                                                        Module 1: Introduction to Node.js
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
@@ -111,7 +109,7 @@
                                                         <ul class="list-wrap">
                                                             <li class="course-item">
                                                                 <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Introduction to Go and its benefits</span>
+                                                                    <span class="item-name">Overview of Node.js and its advantages.</span>
                                                                     <!-- <div class="course-item-meta">
                                                                         <span class="item-meta duration">07:48</span>
                                                                         <span class="item-meta course-item-status">
@@ -122,15 +120,9 @@
                                                             </li>
                                                             <li class="course-item">
                                                                 <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Installing Go on your system</span>                                                                    
+                                                                    <span class="item-name">Installation and setup.</span>                                                                    
                                                                 </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Your first Go program</span>                                                                    
-                                                                </a>
-                                                            </li>
-                                                           
+                                                            </li>                                                          
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -139,7 +131,7 @@
                                                 <h2 class="accordion-header" id="headingTwo">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Module 2: Go Fundamentals
+                                                        Module 2: JavaScript Review
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -148,24 +140,14 @@
                                                         <ul class="list-wrap">
                                                             <li class="course-item">
                                                                 <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Data types and variables</span>                                                                   
+                                                                    <span class="item-name">Recap of key JavaScript concepts.</span>                                                                   
                                                                 </a>
                                                             </li>
                                                             <li class="course-item">
                                                                 <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Control structures (if statements, loops)</span>                                                                    
+                                                                    <span class="item-name">Introduction to asynchronous programming.</span>                                                                    
                                                                 </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Functions and methods</span>                                                                   
-                                                                </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Pointers and memory management</span>                                                                   
-                                                                </a>
-                                                            </li>
+                                                            </li>                                                         
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -174,7 +156,7 @@
                                                 <h2 class="accordion-header" id="heading3">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Module 3: Concurrency in Go
+                                                        Module 3: Getting Started with Node.js
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="heading3"
@@ -183,19 +165,14 @@
                                                         <ul class="list-wrap">
                                                             <li class="course-item">
                                                                 <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Goroutines and channels</span>                                                                   
+                                                                    <span class="item-name">Writing your first Node.js application.</span>                                                                   
                                                                 </a>
                                                             </li>
                                                             <li class="course-item">
                                                                 <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Synchronization and communication</span>                                                                    
+                                                                    <span class="item-name">Understanding the Node.js runtime.</span>                                                                    
                                                                 </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Parallelism and concurrency patterns</span>                                                                   
-                                                                </a>
-                                                            </li>                                                            
+                                                            </li>                                                                                                                 
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -204,7 +181,7 @@
                                                 <h2 class="accordion-header" id="heading4">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Module 4: Web Development with Go
+                                                        Module 4: NPM Basics
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="heading4"
@@ -213,22 +190,12 @@
                                                         <ul class="list-wrap">
                                                             <li class="course-item">
                                                                 <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Setting up a web server</span>                                                                   
+                                                                    <span class="item-name">Overview of NPM and package management.</span>                                                                   
                                                                 </a>
                                                             </li>
                                                             <li class="course-item">
                                                                 <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Handling HTTP requests and responses</span>                                                                    
-                                                                </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">RESTful API design</span>                                                                   
-                                                                </a>
-                                                            </li> 
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Middleware and authentication</span>                                                                   
+                                                                    <span class="item-name">Installing and managing packages.</span>                                                                    
                                                                 </a>
                                                             </li>                                                            
                                                         </ul>
@@ -239,7 +206,7 @@
                                                 <h2 class="accordion-header" id="heading5">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Module 5: Database Connectivity
+                                                        Module 5: Building a Web Server with Express
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="heading5"
@@ -248,19 +215,14 @@
                                                         <ul class="list-wrap">
                                                             <li class="course-item">
                                                                 <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Working with SQL and NoSQL databases</span>                                                                   
+                                                                    <span class="item-name">Introduction to Express.js.</span>                                                                   
                                                                 </a>
                                                             </li>
                                                             <li class="course-item">
                                                                 <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Creating, reading, updating, and deleting data</span>                                                                    
+                                                                    <span class="item-name">Setting up a basic web server.</span>                                                                    
                                                                 </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Database migrations and transactions</span>                                                                   
-                                                                </a>
-                                                            </li>                                                                                                                    
+                                                            </li>                                                                                                                                                                      
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -269,7 +231,7 @@
                                                 <h2 class="accordion-header" id="headingTwo">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Module 6: Testing and Debugging
+                                                        Module 6: Working with Data
                                                     </button>
                                                 </h2>
                                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -278,198 +240,18 @@
                                                         <ul class="list-wrap">
                                                             <li class="course-item">
                                                                 <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Writing unit tests and benchmarks</span>                                                                   
+                                                                    <span class="item-name">Connecting to databases.</span>                                                                   
                                                                 </a>
                                                             </li>
                                                             <li class="course-item">
                                                                 <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Debugging techniques and tools</span>                                                                    
+                                                                    <span class="item-name">CRUD operations with Node.js.</span>                                                                    
                                                                 </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Test-driven development (TDD)</span>                                                                   
-                                                                </a>
-                                                            </li>                                                                                                                      
+                                                            </li>                                                            
                                                         </ul>
                                                     </div>
                                                 </div>
-                                            </div>
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingTwo">
-                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Module 7: Error Handling
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                                    data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <ul class="list-wrap">
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Error types in Go</span>                                                                   
-                                                                </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Handling and reporting errors</span>                                                                    
-                                                                </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Best practices for robust error handling</span>                                                                   
-                                                                </a>
-                                                            </li>                                                                                                                   
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingTwo">
-                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Module 8: Package Management
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                                    data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <ul class="list-wrap">
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Go modules and dependency management</span>                                                                   
-                                                                </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Creating and publishing packages</span>                                                                    
-                                                                </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Versioning and updating dependencies</span>                                                                   
-                                                                </a>
-                                                            </li>                                                                                                                
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingTwo">
-                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Module 9: Performance Optimization
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                                    data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <ul class="list-wrap">
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Profiling and benchmarking</span>                                                                   
-                                                                </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Optimizing CPU and memory usage</span>                                                                    
-                                                                </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Cache implementation and best practices</span>                                                                   
-                                                                </a>
-                                                            </li>                                                                                                              
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingTwo">
-                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Module 10: Real-World Projects
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                                    data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <ul class="list-wrap">
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Building a web application</span>                                                                   
-                                                                </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Creating a command-line tool</span>                                                                    
-                                                                </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Implementing a concurrent data processing pipeline</span>                                                                   
-                                                                </a>
-                                                            </li>                                                         
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingTwo">
-                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Module 11: Best Practices and Project Deployment
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                                    data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <ul class="list-wrap">
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Writing clean and maintainable code</span>                                                                   
-                                                                </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Documentation and code comments</span>                                                                    
-                                                                </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Deploying a Go application to a server</span>                                                                   
-                                                                </a>
-                                                            </li>                                                                                                                 
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingTwo">
-                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                        Module 12: Course Conclusion and Next Steps
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                                    data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <ul class="list-wrap">
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Recap and review</span>                                                                   
-                                                                </a>
-                                                            </li>
-                                                            <li class="course-item">
-                                                                <a href="#" class="course-item-link">
-                                                                    <span class="item-name">Career opportunities and future learning paths</span>                                                                    
-                                                                </a>
-                                                            </li>                                                                                                                       
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>                                          
+                                            </div>                                                                              
                                         </div>
                                     </div>                                  
                                 </div>

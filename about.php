@@ -56,7 +56,7 @@ journey, we provide the training, resources, and support to turn your dreams int
                             </p>
                             <!--<p>Bipsum dolor awtnse awctetur adipis we followelit. Borem.Borem ipsum dolamet consectetur adipiscing eliawe awUt elit ellutnse awcon sectetur adipiscing ectetur.</p>-->
                             <div class="tg-button-wrap">
-                                <a href="course.php" class="btn tg-svg"><span class="text">Explore Courses</span> <span class="svg-icon" id="about-btn" data-svg-icon="assets/img/icons/btn-arrow.svg"></span></a>
+                                <a href="contact.php" class="btn tg-svg"><span class="text">Contact Us</span> <span class="svg-icon" id="about-btn" data-svg-icon="assets/img/icons/btn-arrow.svg"></span></a>
                             </div>
                         </div>
                     </div>

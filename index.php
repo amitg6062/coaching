@@ -138,11 +138,11 @@
                                 </a>
                             </div>
                             <div class="courses__item-content">
-                                <ul class="courses__item-meta list-wrap">
+                                <!-- <ul class="courses__item-meta list-wrap">
                                     <li><i class="flaticon-file"></i> 05 Lessons</li>
                                     <li><i class="flaticon-timer"></i> 12h 30m</li>
                                     <li><i class="flaticon-user-1"></i> Students</li>
-                                </ul>
+                                </ul> -->
                                 <h5 class="title"><a href="#">A Biginer Adobe Illustrator for
                                 Graphic Design</a></h5>
                                 <div class="courses__item-rating">
@@ -154,11 +154,11 @@
                                     <span class="rating-count">(06)</span>
                                 </div>
                                 <div class="courses__item-bottom">
-                                    <div class="author">
+                                    <!-- <div class="author">
                                         <a href="#"><img src="assets/img/courses/course_author.png" alt="img"></a>
                                         <a href="#">David Millar</a>
                                     </div>
-                                    <h5 class="price">$11.00</h5>
+                                    <h5 class="price">$11.00</h5> -->
                                 </div>
                             </div>
                         </div>
@@ -166,17 +166,17 @@
                     <div class="col grid-item cat-one">
                         <div class="courses__item shine__animate-item">
                             <div class="courses__item-thumb">
-                                <a href="#" class="courses__item-tag" style="background-color: #BC18E4;">PHP</a>
-                                <a href="#" class="shine__animate-link">
+                                <a href="course-details-php.php" class="courses__item-tag" style="background-color: #BC18E4;">PHP</a>
+                                <a href="course-details-php.php" class="shine__animate-link">
                                     <img src="assets/img/courses/what-is-php-3-1.png" alt="img">
                                 </a>
                             </div>
                             <div class="courses__item-content">
-                                <ul class="courses__item-meta list-wrap">
+                                <!-- <ul class="courses__item-meta list-wrap">
                                     <li><i class="flaticon-file"></i> 09 Lessons</li>
                                     <li><i class="flaticon-timer"></i> 17h 30m</li>
                                     <li><i class="flaticon-user-1"></i> Students</li>
-                                </ul>
+                                </ul> -->
                                 <h5 class="title"><a href="#">How to Market Yourself as a
                                 Coach or Consultant</a></h5>
                                 <div class="courses__item-rating">
@@ -188,11 +188,11 @@
                                     <span class="rating-count">(10)</span>
                                 </div>
                                 <div class="courses__item-bottom">
-                                    <div class="author">
+                                    <!-- <div class="author">
                                         <a href="#"><img src="assets/img/courses/course_author02.png" alt="img"></a>
                                         <a href="#">Mark Lassoff</a>
                                     </div>
-                                    <h5 class="price"><del>$29.00</del>$19.00</h5>
+                                    <h5 class="price"><del>$29.00</del>$19.00</h5> -->
                                 </div>
                             </div>
                         </div>
@@ -200,17 +200,17 @@
                     <div class="col grid-item cat-two cat-three">
                         <div class="courses__item shine__animate-item">
                             <div class="courses__item-thumb">
-                                <a href="#" class="courses__item-tag" style="background-color: #FF2020;">Nodejs</a>
-                                <a href="#" class="shine__animate-link">
+                                <a href="course-details-nodejs.php" class="courses__item-tag" style="background-color: #FF2020;">Nodejs</a>
+                                <a href="course-details-nodejs.php" class="shine__animate-link">
                                     <img src="assets/img/courses/nodejs_cover_photo_smaller_size.png" alt="img">
                                 </a>
                             </div>
                             <div class="courses__item-content">
-                                <ul class="courses__item-meta list-wrap">
+                                <!-- <ul class="courses__item-meta list-wrap">
                                     <li><i class="flaticon-file"></i> 08 Lessons</li>
                                     <li><i class="flaticon-timer"></i> 14h 30m</li>
                                     <li><i class="flaticon-user-1"></i> Students</li>
-                                </ul>
+                                </ul> -->
                                 <h5 class="title"><a href="#">Become a Certified HTML, CSS,
                                 JavaScript Web Developer</a></h5>
                                 <div class="courses__item-rating">
@@ -222,11 +222,11 @@
                                     <span class="rating-count">(08)</span>
                                 </div>
                                 <div class="courses__item-bottom">
-                                    <div class="author">
+                                    <!-- <div class="author">
                                         <a href="#"><img src="assets/img/courses/course_author03.png" alt="img"></a>
                                         <a href="#">David Millar</a>
                                     </div>
-                                    <h5 class="price">$29.00</h5>
+                                    <h5 class="price">$29.00</h5> -->
                                 </div>
                             </div>
                         </div>
@@ -267,13 +267,12 @@
                                     <svg viewBox="0 0 104 34" fill="none" x="0px" y="0px" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M17.5689 2.56089L0 34H99C101.761 34 104 31.7614 104 29V0H21.9336C20.1223 0 18.4525 0.979667 17.5689 2.56089Z" fill="currentColor"></path>
                                     </svg>
-                                    <h3 class="price">$29.00</h3>
+                                    <h3 class="price">Sashi Ranjan</h3>
                                 </div>
                             </div>
                             <div class="courses__item-two-content">
-                                <a href="#" class="courses__item-tag" style="background-color: #E8F9EF; color: #04BC53;">Graphic Design</a>
-                                <h5 class="title"><a href="course-details.html">Bigener Adobe Illustrator for
-                                Graphic Design</a></h5>
+                                <a href="#" class="courses__item-tag" style="background-color: #E8F9EF; color: #04BC53;">Team Lead (Technology)</a>
+                                <h5 class="title"><a href="https://www.virtusa.com/">Virtusa Consulting Services Private Limited</a></h5>
                                 <ul class="courses__item-meta list-wrap">
                                     <li><i class="flaticon-file"></i> 05</li>
                                     <li><i class="flaticon-timer"></i> 12h 30m</li>
@@ -302,13 +301,12 @@
                                     <svg viewBox="0 0 104 34" fill="none" x="0px" y="0px" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M17.5689 2.56089L0 34H99C101.761 34 104 31.7614 104 29V0H21.9336C20.1223 0 18.4525 0.979667 17.5689 2.56089Z" fill="currentColor"></path>
                                     </svg>
-                                    <h3 class="price">Free</h3>
+                                    <h3 class="price">Amit</h3>
                                 </div>
                             </div>
                             <div class="courses__item-two-content">
-                                <a href="#" class="courses__item-tag" style="background-color: #F7EEFA; color: #BC18E4;">Marketing</a>
-                                <h5 class="title"><a href="course-details.html">How to Market Yourself as a
-                                Coach or Consultant</a></h5>
+                                <a href="#" class="courses__item-tag" style="background-color: #F7EEFA; color: #BC18E4;">Team Lead (Technology)</a>
+                                <h5 class="title"><a href="https://www.policybazaar.com/">policybazaar.com</a></h5>
                                 <ul class="courses__item-meta list-wrap">
                                     <li><i class="flaticon-file"></i> 08</li>
                                     <li><i class="flaticon-timer"></i> 16h 30m</li>
@@ -410,10 +408,10 @@
                     <div class="col-xl-8 col-lg-10">
                         <div class="cta__content">
                             <p>ARE YOU READY FOR THIS OFFER</p>
-                            <h2 class="title">Empower your career with Internshala today</h2>
+                            <h2 class="title">Empower your career with Byteskills today</h2>
                             <h5 class="sub-title">Student’s &amp; Mentors</h5>
                             <div class="tg-button-wrap justify-content-center">
-                                <a href="#" class="btn tg-svg"><span class="text">Regiter Now</span> <span class="svg-icon" id="cta-btn-2" data-svg-icon="assets/img/icons/btn-arrow.svg"></span></a>
+                                <a href="contact.php" class="btn tg-svg"><span class="text">Contact Now</span> <span class="svg-icon" id="cta-btn-2" data-svg-icon="assets/img/icons/btn-arrow.svg"></span></a>
                             </div>
                         </div>
                     </div>
