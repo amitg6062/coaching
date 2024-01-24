@@ -1109,7 +1109,7 @@ textarea {
   text-transform: capitalize;
   color: var(--tg-heading-color);
   font-family: var(--tg-heading-font-family);
-  padding: 37px 12px;
+  padding: 17px 12px;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -1582,7 +1582,7 @@ textarea {
 }
 
 .logo img {
-  max-width: 150px;
+  max-width: 230px;
 }
 
 .sticky-menu {

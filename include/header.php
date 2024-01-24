@@ -47,7 +47,7 @@
 
     <!-- header-area -->
     <header>
-        <div id="sticky-header" class="tg-header__area transparent-header">
+        <div id="sticky-header" class="tg-header__area">
             <div class="container custom-container">
                 <div class="row">
                     <div class="col-12">

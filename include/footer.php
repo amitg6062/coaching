@@ -3,7 +3,7 @@
 
     <!-- footer-area -->
     <footer class="footer-bg" data-bg-color="var(--tg-common-color-dark)">
-        <div class="footer__top-wrap">
+        <!-- <div class="footer__top-wrap">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -74,7 +74,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="copyright__wrapper">
             <div class="container">
                 <div class="row">
